@@ -1,2 +1,3 @@
-# Petris
-Petris is Tetris with Pentominoes
+### How to Play
+1. Download `Petris.exe`.
+2. Double-click `Petris.exe`.
